@@ -1,0 +1,5 @@
+[MASTER]
+
+# Add local files to avoid import-error
+init-hook='import sys; sys.path.append("./")'
+disable=line-too-long

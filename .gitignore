@@ -1,0 +1,3 @@
+py-env
+.mypy_cache
+.vscode 

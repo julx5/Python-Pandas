@@ -1,0 +1,5 @@
+1. Fall Python-Env nicht verwendet wird:
+    source py-env/bin/activate
+
+2. Zum Starten
+    python MM_Analysis.py
